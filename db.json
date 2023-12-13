@@ -1,6 +1,6 @@
 {
   "lights": [
-    "1",{
+    {
     "state": {
       "name": "LC 1",
       "hue": 50000,
@@ -19,7 +19,7 @@
     "modelid": "LC0015",
     "swversion": "1.0.3"
     },
-    "2",{ 
+    { 
       "state": {
         "name": "John",
         "on": true,
