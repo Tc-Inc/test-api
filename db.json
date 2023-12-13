@@ -1,0 +1,57 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "David",
+        "age": 30
+      },
+      {
+        "name": "John",
+        "id": 2,
+        "age": 40
+      }
+    ],
+    
+    "light":[
+        {
+          "id": 1,
+          "state": {
+            "name": "David",
+            "on": true,
+            "bri": 254,
+            "hue": 10000,
+            "sat": 254,
+            "effect": "none",
+            "xy": [
+                0.5,
+                0.5
+            ],
+            "ct": 250,
+            "alert": "none",
+            "colormode": "ct",
+            "mode": "homeautomation",
+            "reachable": true
+          }
+        },
+        {  
+          "id": 2,
+          "state": {
+            "name": "John",
+            "on": true,
+            "bri": 254,
+            "hue": 10000,
+            "sat": 254,
+            "effect": "none",
+            "xy": [
+                0.5,
+                0.5
+            ],
+            "ct": 250,
+            "alert": "none",
+            "colormode": "ct",
+            "mode": "homeautomation",
+            "reachable": true
+        }
+      }
+    ]
+  }
